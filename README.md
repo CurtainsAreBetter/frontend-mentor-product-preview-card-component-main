@@ -54,7 +54,7 @@ I still have a long way to go when it comes to writing good semantic HTML. With 
 ## Author
 
 - Frontend Mentor - [@CurtainsAreBetter](https://www.frontendmentor.io/profile/CurtainsAreBetter)
-- Twitter - [@yourusername](https://www.twitter.com/curtainlyTom)
+- Twitter - [@curtainlyTom](https://www.twitter.com/curtainlyTom)
 
 ## Acknowledgments
 
