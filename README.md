@@ -27,7 +27,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github](https://github.com/CurtainsAreBetter/frontend-mentor-product-preview-card-component-main)
-- Live Site URL: [Github Pages](https://your-live-site-url.com)
+- Live Site URL: [Github Pages](https://curtainsarebetter.github.io/frontend-mentor-product-preview-card-component-main/)
 
 ## My process
 
